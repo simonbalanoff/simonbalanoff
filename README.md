@@ -1,6 +1,6 @@
 # Hi, I'm Simon 👋
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/simon-balanoff-497452304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:simon.balanoff@colostate.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/simonbalanoff"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -12,10 +12,10 @@
 
 ## What I'm Working On
 * Constructing the **official CSU ACM website** to connect 200+ students with events
-* Creating a **mobile**
+* Creating a **mobile** app for procrastinators
 
 ## Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
