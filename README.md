@@ -6,13 +6,13 @@
   <a href="https://github.com/simonbalanoff"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-* **Sophomore CS Student @ Colorado State University**
-* **President, CSU ACM Chapter** - leading events, workshops, and hack nights
-* Passionate about **systems programming, game development, and full-stack development**
+* 🎓 **Sophomore CS Student @ Colorado State University**
+* 💻 **President, CSU ACM Chapter** - leading events, workshops, and hack nights
+* 🚀 Passionate about **systems programming, game development, and full-stack development**
 
 ## What I'm Working On
-* Constructing the **official CSU ACM website** to connect 200+ students with events
-* Creating a **mobile** app for procrastinators
+* 🌐 Constructing the **official CSU ACM website** to connect 200+ students with events
+* 🌱 Creating a **mobile** gardening app for procrastinators
 
 ## Languages & Tools
 <p align="left">
