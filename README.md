@@ -8,11 +8,11 @@
 
 * 🎓 **Sophomore CS Student @ Colorado State University**
 * 💻 **President, CSU ACM Chapter** - leading events, workshops, and hack nights
-* 🚀 Passionate about **systems programming, game development, and full-stack development**
+* 🚀 Passionate about **systems programming, full-stack development, and some game development**
 
 ## What I'm Working On
-* 🌐 Constructing the **official CSU ACM website** to connect 200+ students with events
-* 🌱 Creating a **mobile** gardening app for procrastinators
+* 🌐 Building the official website for HB (Howe Balanoff Website Solutions) — a Fort Collins–based web design agency helping local businesses grow their digital presence
+* 💻 Expanding CSU ACM’s outreach through new workshops, hackathons, and a modern website to connect 200+ students
 
 ## Languages & Tools
 <p align="left">
@@ -20,14 +20,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=white" />
-  <a href=""><img src="https://img.shields.io/badge/itch.io-FF0B34?style=for-the-badge&logo=Itch.io&logoColor=#252d35"></img></a>
 </p>
 
 ## GitHub Stats
