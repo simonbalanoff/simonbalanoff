@@ -28,6 +28,5 @@
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonbalanoff&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonbalanoff&layout=compact&theme=github_dark" />
 </p>
