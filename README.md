@@ -7,7 +7,7 @@
 
 * 🎓 **Sophomore CS Student @ Colorado State University**
 * 💻 **President, CSU ACM Chapter** - leading events, workshops, and hack nights
-* 🚀 Passionate about **systems programming, full-stack development, and some game development**
+* 🚀 Passionate about **systems programming and full-stack development**
 
 ## What I'm Working On
 * 🌐 Building the official website for HB (Howe Balanoff Website Solutions) — a Fort Collins–based web design agency helping local businesses grow their digital presence
