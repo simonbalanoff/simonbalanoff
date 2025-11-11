@@ -10,9 +10,9 @@
 * 🔥 Passionate about **systems programming and full-stack development**
 
 ### 🚀 What I’m Working On
-- **HB Website Solutions** — building the official website and client dashboard for my Fort Collins–based web design agency helping local businesses grow their online presence  
-- **CSU ACM Chapter** — expanding outreach through new workshops, hackathons, and a modern website to connect 200+ computer science students  
-- **Resident Feedback** — developing an iOS and web platform for surgeons to record, assess, and track resident performance with secure role-based dashboards and a TypeScript/Express API  
+- 🌐 **HB Website Solutions** — building the official website and client dashboard for my Fort Collins–based web design agency helping local businesses grow their online presence  
+- 🌱 **CSU ACM Chapter** — expanding outreach through new workshops, hackathons, and a modern website to connect 200+ computer science students  
+- 👨‍⚕️ **Resident Feedback** — developing an iOS and web platform for surgeons to record, assess, and track resident performance with secure role-based dashboards and a TypeScript/Express API  
 
 ## ⚙️ Languages & Tools
 <p align="left">
