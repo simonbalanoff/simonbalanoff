@@ -7,13 +7,14 @@
 
 * 🎓 **Sophomore CS Student @ Colorado State University**
 * 💻 **President, CSU ACM Chapter** - leading events, workshops, and hack nights
-* 🚀 Passionate about **systems programming and full-stack development**
+* 🔥 Passionate about **systems programming and full-stack development**
 
-## What I'm Working On
-* 🌐 Building the official website for HB (Howe Balanoff Website Solutions) — a Fort Collins–based web design agency helping local businesses grow their digital presence
-* 💻 Expanding CSU ACM’s outreach through new workshops, hackathons, and a modern website to connect 200+ students
+### 🚀 What I’m Working On
+- **HB Website Solutions** — building the official website and client dashboard for my Fort Collins–based web design agency helping local businesses grow their online presence  
+- **CSU ACM Chapter** — expanding outreach through new workshops, hackathons, and a modern website to connect 200+ computer science students  
+- **Resident Feedback** — developing an iOS and web platform for surgeons to record, assess, and track resident performance with secure role-based dashboards and a TypeScript/Express API  
 
-## Languages & Tools
+## ⚙️ Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonbalanoff&layout=compact&theme=github_dark" />
 </p>
