@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-<p align="left">
+<!---<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonbalanoff&theme=react&show_icons=true&hide_border=true&layout=compact"/>
-</p>
+</p> --->
