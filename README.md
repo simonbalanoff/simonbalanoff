@@ -14,7 +14,7 @@ I build software that gets deployed and used. Whether it's mobile apps adopted b
 ### What I'm Working On:
 
 **🚀 [Rocket Simulator](https://github.com/simonbalanoff/rocket-simulator)**
-Autonomous 2D rocket landing sim with a Kalman-filtered state estimator and multi-phase guidance controller.
+2D rocket landing sim with a Kalman-filtered state estimator and multi-phase guidance controller.
 
 **👨‍⚕️ [Resident Feedback](https://github.com/simonbalanoff/ResidentFeedback-App)**
 iOS + backend platform for clinical surgical resident evaluation.
