@@ -1,6 +1,6 @@
 # Simon Balanoff
 
-**CS Junior · Colorado State University · 3.78 GPA · 2× Dean's List**
+**CS Junior · Colorado State University**
 
 I build software that gets deployed and used. Whether it's mobile apps adopted by real organizations, backends serving hundreds of users, or tools that solve real problems.
 
