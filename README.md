@@ -11,7 +11,7 @@ I build software that gets deployed and used. Whether it's mobile apps adopted b
 
 ### Leadership
 
-**President, [CSU ACM Chapter](https://acmcsu-client.vercel.app/)**
+**President, [CSU ACM Chapter](https://ramlink.campuslabs.com/engage/organization/ACM)**
 - Grew active membership from ~5 to ~20. Organized events and workshops with CSU faculty and Fort Collins companies, including Woodward and Lockheed Martin.
 
 ---
