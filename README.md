@@ -1,52 +1,36 @@
 # Simon Balanoff
 
-**Computer Science student at Colorado State University**
-Building software across simulation, mobile, backend systems, and developer tools.
+I'm a Computer Science student at **Colorado State University**, concentrating in Artificial Intelligence and Machine Learning. I expect to graduate in May 2028.
 
-I like working on projects that combine strong engineering with real use cases: autonomous systems, full-stack platforms, iOS apps, and tools that make developers faster.
+My interests include software engineering, algorithms, and applied machine learning. I enjoy working across the stack, from designing backend systems to building applications with intuitive, functional interfaces.
 
----
+Previously, I worked as a software development intern at **University of Kansas Health System**, primarily using Angular and .NET. I'm currently the **President of ACM at Colorado State University** and an undergraduate teaching assistant for CS 214.
 
-## Featured Work
+### Selected Projects
 
-### [Rocket Simulator](https://github.com/simonbalanoff/rocket-simulator)
+**[Recruitment Management System](https://github.com/simonbalanoff/SigEpRush-App)**  
+A native iOS application and REST API designed to manage candidate information and streamline organizational recruitment. Built with Swift, TypeScript, Express, and MongoDB.
 
-Autonomous 2D rocket landing simulator with Kalman-filtered state estimation, multi-phase guidance, and Monte Carlo testing.
+**[Rocket Landing Simulator](https://github.com/simonbalanoff/rocket-simulator)**  
+A 2D rocket landing simulation implementing Kalman-filtered state estimation and a multi-phase guidance controller. Built in Python.
 
-`Python` `Simulation` `Control Systems` `Kalman Filtering`
+**[UMLVisualizer](https://github.com/simonbalanoff/UMLVisualizer)**  
+A Java source analysis tool that automatically parses source files and generates interactive UML class diagrams.
 
----
+### Technical Experience
 
-### [Resident Feedback](https://github.com/simonbalanoff/ResidentFeedback-App)
+**Languages:** TypeScript, Java, Python, C++, Swift, JavaScript
 
-iOS and backend platform built for KU Medical Center to support surgical resident evaluation workflows.
+**Frameworks & Technologies:** React, Next.js, Angular, Node.js, Express, Fastify, PostgreSQL, MongoDB, Prisma
 
-`Swift` `Node.js` `Express` `MongoDB`
+**Areas of Interest:** Software Engineering, Backend Development, Algorithms, Applied AI/ML
 
----
+### Currently
 
-### [UML Visualizer](https://github.com/simonbalanoff/UMLVisualizer)
+- Leading the ACM chapter at Colorado State University
+- Developing software projects and expanding my experience with AI/ML
+- Exploring software engineering internship opportunities for Summer 2027
 
-Java source parser that generates interactive UML class diagrams from multi-file projects.
+### Connect
 
-`Java` `Parsing` `Graph Visualization` `Developer Tools`
-
----
-
-## Leadership
-
-**President, ACM at Colorado State University**
-Grew active membership from **5 to 20+** and organized technical events with faculty and industry partners including Woodward and Lockheed Martin.
-
----
-
-## Tech
-
-`C++` `Python` `Java` `TypeScript` `Swift` `C#`
-`React` `Node.js` `Express` `MongoDB` `AWS` `Git`
-
----
-
-## Links
-
-[Portfolio](https://simonbalanoff.github.io) · [LinkedIn](https://www.linkedin.com/in/simon-balanoff/) · [Email](mailto:simon.balanoff@colostate.edu)
+[Portfolio](https://simonbalanoff.github.io) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
