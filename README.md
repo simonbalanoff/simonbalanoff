@@ -33,4 +33,4 @@ A Java source analysis tool that automatically parses source files and generates
 
 ### Connect
 
-[Portfolio](https://simonbalanoff.github.io) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[Portfolio](https://simonbalanoff.github.io) · [LinkedIn](https://www.linkedin.com/in/simon-balanoff/) · [Email](mailto:sjbalanoff@gmail.com)
